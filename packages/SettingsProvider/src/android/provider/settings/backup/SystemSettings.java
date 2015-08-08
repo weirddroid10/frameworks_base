@@ -100,5 +100,6 @@ public class SystemSettings {
         Settings.System.VOLUME_KEY_CURSOR_CONTROL,
         Settings.System.BACK_GESTURE_HAPTIC,
         Settings.System.TOAST_ANIMATION,
+        Settings.System.THREE_FINGER_GESTURE,
     };
 }
