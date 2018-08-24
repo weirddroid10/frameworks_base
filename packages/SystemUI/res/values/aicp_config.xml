@@ -8,4 +8,8 @@
     <string name="quick_settings_tiles_extra" translatable="false">
       livedisplay,reading_mode,anti_flicker
     </string>
+
+    <!-- Max visible notification icons -->
+    <integer name="config_maxVisibleNotificationIcons">4</integer>
+    <integer name="config_maxVisibleNotificationIconsOnLock">5</integer>
 </resources>
