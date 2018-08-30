@@ -101,5 +101,6 @@ public class SystemSettings {
         Settings.System.BACK_GESTURE_HAPTIC,
         Settings.System.TOAST_ANIMATION,
         Settings.System.THREE_FINGER_GESTURE,
+        Settings.System.OMNIJAWS_WEATHER_ICON_PACK,
     };
 }
