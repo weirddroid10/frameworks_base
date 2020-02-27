@@ -5507,6 +5507,12 @@ public final class Settings {
          */
         public static final String AE_THEME = "ae_theme";
 
+        /**
+         * Whether to show or hide alert slider notifications on supported devices
+         * @hide
+         */
+        public static final String ALERT_SLIDER_NOTIFICATIONS = "alert_slider_notifications";
+
         /***************************
          * AICP System Settings end
          ***************************/
