@@ -106,5 +106,6 @@ public class SystemSettings {
         Settings.System.AICP_LOCKSCREEN_WEATHER_STYLE,
         Settings.System.QS_FOOTER_TEXT_SHOW,
         Settings.System.QS_FOOTER_TEXT_STRING,
+        Settings.System.CLICK_PARTIAL_SCREENSHOT,
     };
 }
