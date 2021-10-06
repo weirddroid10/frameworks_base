@@ -127,6 +127,8 @@ android_library {
         "LowLightDreamLib",
         "AicpGear-preference",
         "AicpGear-util",
+        "colorkt",
+        "themelib",
     ],
     manifest: "AndroidManifest.xml",
 
