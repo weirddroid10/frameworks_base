@@ -308,4 +308,9 @@ public class NetworkTraffic extends TextView implements DarkReceiver {
         setTextColor(mTintColor);
         updateTrafficDrawable();
     }
+
+    public void setTintColor(int color) {
+        mTintColor = color;
+        updateTrafficDrawable();
+    }
 }
