@@ -96,5 +96,6 @@ public class SystemSettings {
         Settings.System.NETWORK_TRAFFIC_AUTOHIDE_THRESHOLD,
         Settings.System.LOCKSCREEN_BATTERY_INFO,
         Settings.System.LOCKSCREEN_BATTERY_INFO_TEMP_UNIT,
+        Settings.System.SCREEN_OFF_ANIMATION,
     };
 }
