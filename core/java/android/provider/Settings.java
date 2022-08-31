@@ -5498,6 +5498,14 @@ public final class Settings {
         @Readable
         public static final String MULTI_AUDIO_FOCUS_ENABLED = "multi_audio_focus_enabled";
 
+        /*****************************
+         * AICP System Settings start
+         *****************************/
+
+        /***************************
+         * AICP System Settings end
+         ***************************/
+
         /**
          * Whether desktop mode is enabled or not.
          * 0 = off
@@ -10818,6 +10826,14 @@ public final class Settings {
          * @hide
          */
         public static final String ADAPTIVE_CONNECTIVITY_ENABLED = "adaptive_connectivity_enabled";
+
+        /*****************************
+         * AICP Secure Settings start
+         *****************************/
+
+        /*****************************
+         * AICP Secure Settings end
+         *****************************/
 
         /**
          * Keys we no longer back up under the current schema, but want to continue to
